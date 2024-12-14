@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <nav className="nav">
         <div className="nav-content">
-          <h3 className="nav-logo">TechDesk</h3>
+          <h3 className="nav-logo">GedjiDesk</h3>
           <div className="nav-links">
             <a href="#blog">Blog</a>
             <a href="#about">About</a>
